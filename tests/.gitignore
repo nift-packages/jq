@@ -1,0 +1,4 @@
+.source-work/
+.deterministic-work/
+.integration-work/
+__pycache__/
